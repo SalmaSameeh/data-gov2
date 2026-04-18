@@ -177,8 +177,8 @@ def add_usage(usage: UsageAdd, conn=Depends(get_db)):
     execute_query(
         conn,
         """
-        INSERT INTO user_records (email, identifier, project_name, project_category, usage_date)
-        VALUES (%s, %s, %s, %s, NOW())
+        INSERT INTO user_records (email, identifier, project_name, project_category)
+        VALUES (%s, %s, %s, %s)
         """,
         (usage.email, usage.identifier, usage.project_name, usage.project_category),
         fetch=False
@@ -199,11 +199,10 @@ def get_user_usage(email: str, conn=Depends(get_db)):
     records = execute_query(
         conn,
         """
-        SELECT d.name as dataset_name, ur.project_name, ur.project_category, ur.usage_date
+        SELECT d.name as dataset_name, ur.project_name, ur.project_category
         FROM user_records ur
         JOIN datasets d ON ur.identifier = d.identifier
         WHERE ur.email = %s
-        ORDER BY ur.usage_date DESC
         """,
         (email,)
     )
