@@ -203,6 +203,7 @@ def get_user_usage(email: str, conn=Depends(get_db)):
         FROM user_records ur
         JOIN datasets d ON ur.identifier = d.identifier
         WHERE ur.email = %s
+        ORDER BY ur.id DESC
         """,
         (email,)
     )
