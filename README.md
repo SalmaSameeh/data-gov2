@@ -2,7 +2,7 @@
 
 I built this API to make government data easier to access and work with. Instead of scraping multiple websites or digging through PDFs, you can just query this API and get clean data back.
 
-**Live here:** [[your-deployed-url.com](https://8a0b289c-7312-47c2-80d8-340b1d1d3c0e-00-3ivh3jvapmlg7.janeway.replit.dev/docs)]
+**Live here:** [(https://8a0b289c-7312-47c2-80d8-340b1d1d3c0e-00-3ivh3jvapmlg7.janeway.replit.dev/docs)]
 
 ## What this does
 
