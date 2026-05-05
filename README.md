@@ -36,4 +36,4 @@ If you want to try it locally:
 git clone https://github.com/SalmaSameeh/open-government-data-api.git
 cd open-government-data-api
 pip install -r requirements.txt
-python final_milestone.py
+python mainf.py
