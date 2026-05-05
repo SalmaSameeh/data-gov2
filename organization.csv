@@ -1,0 +1,37 @@
+org_name,org_type,org_description,contact_email
+epa-gov,organization,Our mission is to protect human health and the environment. ,FRS_Support@epa.gov 
+dot-gov,organization,,
+doe-gov,organization,,
+doi-gov,organization,"The Department of the Interior (DOI) conserves and manages the Nation’s natural resources and cultural heritage for the benefit and enjoyment of the American people, provides scientific and other information about natural resources and natural hazards to address societal challenges and create opportunities for the American people, and honors the Nation’s trust responsibilities or special commitments to American Indians, Alaska Natives, and affiliated island communities to help them prosper.
+
+See more at https://www.doi.gov/",
+noaa-gov,organization,,coastal.info@noaa.gov
+hhs-gov,organization,,
+city-of-austin,organization,City of Austin (Texas) ,
+district-of-columbia,organization,Engage with the District of Columbia through government open data.,
+city-of-hartford,organization,,
+ca-gov,organization,State of California,
+dhs-gov,organization,,
+city-of-san-francisco,organization,,
+montgomery-county-of-maryland,organization,,
+state-of-maryland,organization,,
+state-of-missouri,organization,,
+state-of-oregon,organization,,
+state-of-washington,organization,"Washington Technology Solutions (WaTech) provides the state of Washington Open Data Program for all state agencies to publish public data at https://data.wa.gov. Washington state agencies, library systems, school districts, and small local government entities publish more than 2,500 datasets, visualizations, and data stories that people access nearly three million times per month. Data topics include campaign contributions, public health, licensed professionals, environment, social services, vehicle licensing and registration, public safety, and more.",
+wake-county,organization,Wake County Open Data,
+nrc-gov,organization,,
+state-of-alaska,organization,The State of Alaska contributes several collections of digital geospatial data and services for government and public use. The Dept of Geological and Geophysical Surveys and the Dept of Natural Resources publish data to data.gov. The University of Alaska also operates the AlaskaMapped and GINA repositories of data.,dggspubs@alaska.gov
+state-of-new-york,organization,,
+state-of-iowa,organization,State of Iowa ,
+usda-gov,organization,,
+nasa-gov,organization,"NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.
+
+To do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?
+
+NASA conducts its work in four principal organizations, called mission directorates:
+ 
+Aeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.
+
+Human Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.
+
+Science: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits o",
